@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fadhil Darma Putera Zagoto</h1>
 <h3 align="center">Lead Frontend Developer & Mentor</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crusherblack" alt="crusherblack" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/tahucoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tahucoding" height="30" width="40" /></a>
