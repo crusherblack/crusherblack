@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on my website: [Tahu Coding](https://www.tahucoding.com/)  
   
 
-- 🌱 I’m currently learning more about e2e testing  
+- 🌱 I’m currently learning more about software architecture  
   
 
 - ❓ Ask me about anything related to React and Laravel  
